@@ -1,4 +1,4 @@
-# TailorTalk - AI-Powered Calendar Booking Assistant
+# AI-Powered Calendar Booking Assistant
 
 A conversational AI application that enables users to book appointments through natural language interactions. Built with FastAPI, Streamlit, and Google's Gemini AI, integrated with Google Calendar for seamless appointment management.
 
@@ -47,7 +47,7 @@ A conversational AI application that enables users to book appointments through 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Snevj/TailorTalksAssignment.git
+git clone https://github.com/Snevj/AiPoweredCalender.git
 cd TailorTalksAssignment
 ```
 
